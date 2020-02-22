@@ -7,12 +7,12 @@ namespace AspNetCoreCodeCoverage.Tests
 	public class UserServiceTests
 	{
 		[Test]
-		public void CanDeleteCountry_UserIsNotCountryManagerTryToDeleteCountry_ReturnsFalse()
+		public void CanDeleteCountry_UserIsNotCountryManager_ReturnsFalse()
 		{
 			var user = new User
 			{
 				Roles = new[] { "User" },
-				ManagedCountries = new[] { "Romania" }
+				ManagedCountries = new[] { "Sweden" }
 			};
 			var userService = new UserService(user);
 
