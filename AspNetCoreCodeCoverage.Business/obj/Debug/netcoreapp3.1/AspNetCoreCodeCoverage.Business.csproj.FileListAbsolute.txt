@@ -1,0 +1,8 @@
+C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\bin\Debug\netcoreapp3.1\AspNetCoreCodeCoverage.Business.deps.json
+C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\bin\Debug\netcoreapp3.1\AspNetCoreCodeCoverage.Business.dll
+C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\bin\Debug\netcoreapp3.1\AspNetCoreCodeCoverage.Business.pdb
+C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\obj\Debug\netcoreapp3.1\AspNetCoreCodeCoverage.Business.AssemblyInfoInputs.cache
+C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\obj\Debug\netcoreapp3.1\AspNetCoreCodeCoverage.Business.AssemblyInfo.cs
+C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\obj\Debug\netcoreapp3.1\AspNetCoreCodeCoverage.Business.dll
+C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\obj\Debug\netcoreapp3.1\AspNetCoreCodeCoverage.Business.pdb
+C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\obj\Debug\netcoreapp3.1\AspNetCoreCodeCoverage.Business.csprojAssemblyReference.cache

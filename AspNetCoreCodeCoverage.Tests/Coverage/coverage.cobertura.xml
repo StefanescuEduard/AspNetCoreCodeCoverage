@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.8571" branch-rate="0.75" version="1.9" timestamp="1582379520" lines-covered="12" lines-valid="14" branches-covered="3" branches-valid="4">
+  <sources>
+    <source>C:\Users\eduard.stefanescu\source\repos\AspNetCoreCodeCoverage\AspNetCoreCodeCoverage.Business\</source>
+  </sources>
+  <packages>
+    <package name="AspNetCoreCodeCoverage.Business" line-rate="0.8571" branch-rate="0.75" complexity="7">
+      <classes>
+        <class name="AspNetCoreCodeCoverage.Business.User" filename="User.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Roles" signature="()" line-rate="1" branch-rate="1">
+              <lines>
+                <line number="7" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_ManagedCountries" signature="()" line-rate="1" branch-rate="1">
+              <lines>
+                <line number="8" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="2" branch="False" />
+            <line number="8" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="AspNetCoreCodeCoverage.Business.UserService" filename="UserService.cs" line-rate="0.8332999999999999" branch-rate="0.75" complexity="5">
+          <methods>
+            <method name="CanDeleteCountry" signature="(System.String)" line-rate="0.75" branch-rate="0.75">
+              <lines>
+                <line number="15" hits="1" branch="False" />
+                <line number="16" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="31" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="2" branch="False" />
+                <line number="19" hits="1" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="96" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="24" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(AspNetCoreCodeCoverage.Business.User)" line-rate="1" branch-rate="1">
+              <lines>
+                <line number="9" hits="1" branch="False" />
+                <line number="10" hits="1" branch="False" />
+                <line number="11" hits="1" branch="False" />
+                <line number="12" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="1" branch="False" />
+            <line number="16" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="31" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="17" hits="2" branch="False" />
+            <line number="19" hits="1" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="96" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="9" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
