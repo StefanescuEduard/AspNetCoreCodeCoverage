@@ -1,7 +1,7 @@
-﻿using AspNetCoreCodeCoverage.Business;
+﻿using NetCoreCodeCoverage.Business;
 using NUnit.Framework;
 
-namespace AspNetCoreCodeCoverage.Tests
+namespace NetCoreCodeCoverage.Tests
 {
 	[TestFixture]
 	public class UserServiceTests

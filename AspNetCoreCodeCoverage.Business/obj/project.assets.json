@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Business\\AspNetCoreCodeCoverage.Business.csproj",
-      "projectName": "AspNetCoreCodeCoverage.Business",
-      "projectPath": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Business\\AspNetCoreCodeCoverage.Business.csproj",
+      "projectUniqueName": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Business\\NetCoreCodeCoverage.Business.csproj",
+      "projectName": "NetCoreCodeCoverage.Business",
+      "projectPath": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Business\\NetCoreCodeCoverage.Business.csproj",
       "packagesPath": "C:\\Users\\eduard.stefanescu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Business\\obj\\",
       "projectStyle": "PackageReference",

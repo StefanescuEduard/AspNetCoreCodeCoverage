@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace AspNetCoreCodeCoverage.Business
+namespace NetCoreCodeCoverage.Business
 {
 	public class User
 	{

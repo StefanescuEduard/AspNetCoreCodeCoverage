@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\AspNetCoreCodeCoverage.Tests.csproj": {}
+    "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\NetCoreCodeCoverage.Tests.csproj": {}
   },
   "projects": {
     "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Business\\NetCoreCodeCoverage.Business.csproj": {
@@ -56,12 +56,12 @@
         }
       }
     },
-    "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\AspNetCoreCodeCoverage.Tests.csproj": {
+    "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\NetCoreCodeCoverage.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\AspNetCoreCodeCoverage.Tests.csproj",
-        "projectName": "AspNetCoreCodeCoverage.Tests",
-        "projectPath": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\AspNetCoreCodeCoverage.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\NetCoreCodeCoverage.Tests.csproj",
+        "projectName": "NetCoreCodeCoverage.Tests",
+        "projectPath": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\NetCoreCodeCoverage.Tests.csproj",
         "packagesPath": "C:\\Users\\eduard.stefanescu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\eduard.stefanescu\\source\\repos\\AspNetCoreCodeCoverage\\AspNetCoreCodeCoverage.Tests\\obj\\",
         "projectStyle": "PackageReference",

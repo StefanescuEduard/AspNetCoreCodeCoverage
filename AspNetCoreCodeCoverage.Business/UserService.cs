@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace AspNetCoreCodeCoverage.Business
+namespace NetCoreCodeCoverage.Business
 {
 	public class UserService
 	{

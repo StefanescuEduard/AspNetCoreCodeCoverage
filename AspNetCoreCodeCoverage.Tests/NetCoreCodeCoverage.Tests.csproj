@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AspNetCoreCodeCoverage.Business\AspNetCoreCodeCoverage.Business.csproj" />
+    <ProjectReference Include="..\AspNetCoreCodeCoverage.Business\NetCoreCodeCoverage.Business.csproj" />
   </ItemGroup>
 
 </Project>
